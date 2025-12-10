@@ -8,8 +8,7 @@ I’m especially interested in AI/ML, time-series prediction, and robotic system
 ### Technical Skills 
 - Python 
 - PyTorch
-- C 
-- C++
+- C/ C++
 - Arduino
 - Raspberry Pi
 - PIC
