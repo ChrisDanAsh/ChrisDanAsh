@@ -1,14 +1,27 @@
-#Greetings
+## Greetings
 
 I’m Christopher Ash, an R&D Engineer from Trinidad and Tobago, currently based in South Korea.
 I design and build intelligent systems, with experience spanning AI research, robotics, and embedded engineering.
 
 I’m especially interested in AI/ML, time-series prediction, and robotic systems development.
 
-Technical Skills: Python, PyTorch, C, C++, Arduino, Raspberry Pi
-Languages: English (native), Korean (TOPIK 4 – intermediate)
+### Technical Skills 
+Python 
+PyTorch
+C 
+C++
+Arduino
+Raspberry Pi
+PIC
 
-Hobbies: Exploring new foods, gym, chess
+### Languages 
+English (native) 
+Korean (TOPIK 4 – intermediate)
+
+### Hobbies 
+Exploring new foods 
+Gym 
+Chess
 
 <!--
 **ChrisDanAsh/ChrisDanAsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
