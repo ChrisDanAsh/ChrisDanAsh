@@ -1,4 +1,4 @@
-##Greetings
+#Greetings
 
 I’m Christopher Ash, an R&D Engineer from Trinidad and Tobago, currently based in South Korea.
 I design and build intelligent systems, with experience spanning AI research, robotics, and embedded engineering.
