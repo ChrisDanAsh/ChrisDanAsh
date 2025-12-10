@@ -6,22 +6,22 @@ I design and build intelligent systems, with experience spanning AI research, ro
 I’m especially interested in AI/ML, time-series prediction, and robotic systems development.
 
 ### Technical Skills 
-Python 
-PyTorch
-C 
-C++
-Arduino
-Raspberry Pi
-PIC
+- Python 
+- PyTorch
+- C 
+- C++
+- Arduino
+- Raspberry Pi
+- PIC
 
 ### Languages 
-English (native) 
-Korean (TOPIK 4 – intermediate)
+- English (native) 
+- Korean (TOPIK 4 – intermediate)
 
 ### Hobbies 
-Exploring new foods 
-Gym 
-Chess
+- Exploring new foods 
+- Gym 
+- Chess
 
 <!--
 **ChrisDanAsh/ChrisDanAsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
