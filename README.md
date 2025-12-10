@@ -22,6 +22,10 @@ I’m especially interested in AI/ML, time-series prediction, and robotic system
 - Gym 
 - Chess
 
+### Resume
+- [English Resume](https://github.com/ChrisDanAsh/ChrisDanAsh/blob/84b37af96e4e4769d16b36fea5b901ccefd1440e/Resume/Christopher%20Ash%20-%20Resume.pdf)
+- [한국어 이력서](https://github.com/ChrisDanAsh/ChrisDanAsh/blob/84b37af96e4e4769d16b36fea5b901ccefd1440e/Resume/%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC%20%EB%8B%A4%EB%8B%88%EC%97%98%20%EC%95%A0%EC%89%AC%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
+
 <!--
 **ChrisDanAsh/ChrisDanAsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
