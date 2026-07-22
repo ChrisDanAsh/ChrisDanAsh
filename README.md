@@ -13,7 +13,16 @@ I’m especially interested in AI/ML, time-series prediction, and robotic system
 - Arduino
 - Raspberry Pi
 - PIC
+- SQL
+- LangChain
 
+### AI and Research Skills
+- LLM prompt engineering
+- Agentic LLM systems
+- Retrieval-Augmented Generation (RAG) systems
+- Time series analysis & prediction
+- Transfer learning
+  
 ### Languages 
 - English (native) 
 - Korean (TOPIK 4 – intermediate)
