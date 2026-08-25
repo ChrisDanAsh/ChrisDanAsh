@@ -1,10 +1,10 @@
 ## Greetings
 
-I’m Christopher Ash, an R&D Engineer from Trinidad and Tobago, currently based in South Korea.
+I’m Christopher Ash, an AI Engineer from Trinidad and Tobago, currently based in South Korea.
 
-I design and build intelligent systems, with experience spanning AI research, robotics, and embedded engineering.
+I design and build intelligent systems, with experience spanning LLM agents and applied ML, robotics, and embedded engineering.
 
-I’m especially interested in AI/ML, time-series prediction, and robotic systems development.
+I’m especially interested in agentic systems, AI/ML, time-series prediction, and embedded and robotic systems development.
 
 ### Technical Skills 
 - Python 
