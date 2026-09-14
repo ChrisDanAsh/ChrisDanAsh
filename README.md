@@ -33,8 +33,8 @@ I’m especially interested in agentic systems, AI/ML, time-series prediction, a
 - Chess
 
 ### Resume
-- [English Resume](https://github.com/ChrisDanAsh/ChrisDanAsh/blob/d8d407b1753a5e529489cc22be72d176502e7fa4/Resume/Christopher%20Ash%20Resume.pdf)
-- [한국어 이력서](https://github.com/ChrisDanAsh/ChrisDanAsh/blob/1151e99fee8c8ce610cdab667852525bc5d3c9d7/Resume/%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC%20%EB%8B%A4%EB%8B%88%EC%97%98%20%EC%95%A0%EC%89%AC%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
+- [English Resume](Resume/C_Ash_Resume_EN.pdf)
+- [한국어 이력서](Resume/C_Ash_Resume_KO.pdf)
 
 ### Portfolio
 - [English Portfolio](Portfolio/CAsh_EN.pdf)
